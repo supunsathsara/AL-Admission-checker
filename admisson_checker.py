@@ -1,8 +1,11 @@
 ##from pathlib import Path
 import requests
 
-i = 5916300
-while i < 5917577:
+startI = int(input("Enter starting Index Number: "))
+endI = int(input("Enter ending Index Number: "))
+
+i = startI
+while i < endI:
     header = {
         "authority": "admission.doenets.lk",
         "method": "POST",
