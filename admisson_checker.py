@@ -37,6 +37,8 @@ while i < 5917577:
         "type": "yii\\web\\NotFoundHttpException",
     }:
         print("Index no:", i, "refference:", res_json["reference"])
+         ##IF WANT TO DOWNLOAD THE PDF FILES UNCOMMENT BELOW LINES[NOT RECOMENNED THOUGH]
+            
         ##pdf_url = "https://admission.doenets.lk/api/admission" + res_json["reference"]
         ##filename = Path(str(i) + ".pdf")
         ##response = requests.get(pdf_url)
