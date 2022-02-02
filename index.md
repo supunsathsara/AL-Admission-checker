@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# AL-Admission-checker
+## About
+I guess because of the COVID gov gave chance to get our admission form from online..
+Since they don't have any verification methods.
+you can just download anyone's admission submitting their index no..<br>
+   https://admission.doenets.lk
 
-You can use the [editor on GitHub](https://github.com/supunsathsara/AL-Admission-checker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<br>
+Since the Index numbers are not issed in a order... This will check theck the numbers one by one and give the issued index number list.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- If you want to check the admission form of a particular index no, <br>
+  Go to https://admission.doenets.lk/api/admission/{refference} <br>
+  <samp>replace {refference} with the refference number</samp>
 
-### Markdown
+![image](https://user-images.githubusercontent.com/67389877/151705225-d5b73464-f3cb-44d5-91a1-e22c4fb7708e.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+> Disclaimer: I guess it's kinda a wrong to check other's Admission forms...So don't misuse...??
 
-# Header 1
-## Header 2
-### Header 3
+### Requirments
+[Requests Module ](https://docs.python-requests.org/en/latest/)
 
-- Bulleted
-- List
+<br>
 
-1. Numbered
-2. List
+<p align="right">
+<a href="https://twitter.com/ssupunsathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ssupunsathsara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/supunsathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunsathsara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17653777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17653777" height="30" width="40" /></a>
+<a href="https://fb.com/s.supun.sathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s.supun.sathsara" height="30" width="40" /></a>
+<a href="https://instagram.com/s_supun_sathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_supun_sathsara" height="30" width="40" /></a>
+<a href="https://github.com/supunsathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="supunsathsara" height="30" width="40" /></a>
+<a href="https://m.me/s.supun.sathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/messenger.svg" alt="s.supun.sathsara" height="30" width="40" /></a>
+<a href="https://t.me/supun_sathsara" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/telegram-app--v1.png" alt="supun_sathsara" height="35" width="35" /></a>
+</p>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/supunsathsara/AL-Admission-checker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br>
+<img align="right" src="https://img.shields.io/github/last-commit/supunsathsara/AL-Admission-checker?style=plastic" />
